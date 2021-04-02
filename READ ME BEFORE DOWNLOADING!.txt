@@ -1,0 +1,8 @@
+Hi There!, Before You Download You Need To Know How To Play.
+But Before That THIS REPOSITORY IS ONLY FOR WINDOWS Sorry Mac Os X And Linux Users :( .
+To Play A Executable Make A Folder On Your Desktop, Name It After The Mod Then Extract The .zip Into Your New Folder And Launch The Game.
+To Use Skins And Songs Download The Original Fnf (Here's My Fast Link gg.gg/Fnfalt ) Then Extract The Files Onto Your Desktop (Or Folder If You Want)
+And Then Extract The Skin/Song And Delete The File In The Games Files That Has The Same Name As The File In The Skin/Song.
+After That Put The Skin/Song Mod In The Assets Folder And Launch The Game.
+
+ Enjoy! :)
